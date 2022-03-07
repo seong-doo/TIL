@@ -51,13 +51,15 @@
 - Rollback시에는 해당 트랜잭션을 재시작하거나 폐기한다.
 
 ### 트랜잭션의 상태
-> 활동(Active) : 트랜잭션이 실행중인 상태
-> 실패(Failed) : 실행에 오류가 발생하여 중단된 상태
-> 철회(Aborted) : 비정상적으로 종료되어 Rollback 연산을 수행한 상태
-> 부분 완료(Partially Committed) : 마지막 연산까지 실행했지만, Commit 연산이 실행되기 직전의 상태
+> 활동(Active) : 트랜잭션이 실행중인 상태<br>
+> 실패(Failed) : 실행에 오류가 발생하여 중단된 상태<br>
+> 철회(Aborted) : 비정상적으로 종료되어 Rollback 연산을 수행한 상태<br>
+> 부분 완료(Partially Committed) : 마지막 연산까지 실행했지만, Commit 연산이 실행되기 직전의 상태<br>
 > 완료(Committed) : 성공적으로 종료되어 Commit 연산을 실행한 후의 상태
 
 ###### 출처
 > https://coding-factory.tistory.com/226
+
 > https://brunch.co.kr/@skeks463/27
+
 > http://wiki.hash.kr/index.php/%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98
