@@ -10,6 +10,8 @@
   
 - Javascript <br>
   🤔[호이스팅(Hoisting)과 var,let, const 비교][Javascript-1] <br>
+  😬[원시값과 참조값][Javascript-2] <br>
+  
   
 
 - ETC.. <br>
@@ -24,3 +26,4 @@
   [Etc-1]: https://github.com/seong-doo/TIL/blob/main/%EA%B8%B0%EC%88%A0%EC%A7%80%EC%8B%9D/etc/%5BDatabase%5D%20%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98.md "Go TLI"
 
   [Javascript-1]: https://github.com/seong-doo/TIL/blob/main/%EA%B8%B0%EC%88%A0%EC%A7%80%EC%8B%9D/Javascript/%ED%98%B8%EC%9D%B4%EC%8A%A4%ED%8C%85(Hoisting)%EA%B3%BC%20var%2Clet%2C%20const%20%EB%B9%84%EA%B5%90.md "Go TLI"
+  [Javascript-2]: https://github.com/seong-doo/TIL/blob/main/%EA%B8%B0%EC%88%A0%EC%A7%80%EC%8B%9D/Javascript/%EC%9B%90%EC%8B%9C%EA%B0%92%EA%B3%BC%20%EC%B0%B8%EC%A1%B0%EA%B0%92.md "Go TIL"
