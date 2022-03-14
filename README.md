@@ -17,8 +17,6 @@
 - ETC.. <br>
  😱 [[Database] 트랜잭션][Etc-1]<br>
   
-# 알고리즘
-
 
 
   [Reactlink-1]: https://github.com/seong-doo/TIL/blob/main/%EA%B8%B0%EC%88%A0%EC%A7%80%EC%8B%9D/React/React%EC%9D%98%20%EA%B0%9C%EB%85%90%EA%B3%BC%20%ED%8A%B9%EC%A7%95.md "Go TLI"
